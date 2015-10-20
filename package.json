@@ -1,0 +1,21 @@
+{
+  "name": "easy-logger",
+  "description": "http request logger middleware for node.js",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jean-Baptiste Crestot",
+    "email": "jbcrestot@gmail.com",
+    "url": ""
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbcrestot"
+  },
+  "dependencies": {
+    "cli-color": "1.0.0"
+  },
+  "engines": {
+    "node": ">= 0.10.25"
+  }
+}
